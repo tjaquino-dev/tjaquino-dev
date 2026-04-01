@@ -12,7 +12,7 @@
 
 💰 Técnico em Administração
 
-💻 Interessado em programação e tecnologia
+🖥️ Interessado em programação e tecnologia
 
 🚀 Em constante aprendizado na área de TI  
 

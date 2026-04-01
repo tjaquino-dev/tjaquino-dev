@@ -1,8 +1,9 @@
-# 👋 Olá! Bem-vindo(a) ao meu GitHub
+# 💻 Thomaz Jefferson Aquino
 
-Sou estudante do curso de **Desenvolvimento de Sistemas pela FATEC** e utilizo este espaço para compartilhar projetos acadêmicos e pessoais, aplicando conceitos de programação e boas práticas de desenvolvimento de software.
-
-Tenho interesse em aprender continuamente, evoluir tecnicamente e interagir com outros estudantes e profissionais da área de desenvolvimento de software.
+## 👋 Sobre mim
+🎓 Estudante de Desenvolvimento de Sistemas  
+💻 Interessado em programação e tecnologia  
+🚀 Em constante aprendizado na área de TI  
 
 ---
 
@@ -26,12 +27,5 @@ Tenho interesse em aprender continuamente, evoluir tecnicamente e interagir com 
 ---
 
 ## 📫 Contato
-
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-``
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaz-jefferson-aquino-378717312/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tjnetspace@gmail.com)

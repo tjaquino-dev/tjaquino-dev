@@ -1,6 +1,12 @@
 # 💻 Thomaz Jefferson Aquino
 
 ## 👋 Sobre mim
+
+🎓 Estudante de Desenvolvimento de Sistemas
+🎓 Bacharel em Ciência da Computação
+🎓 Licenciatura em Matemática
+🎓 Licenciatura em Pedagogia
+🎓 Técnico em Administração
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Interessado em programação e tecnologia  
 🚀 Em constante aprendizado na área de TI  
